@@ -1,12 +1,12 @@
-<h1 align="center">Sobre Mim</h1>
+<h1 align="left">Sobre Mim</h1>
 
 ###
 
-<h3 align="center">Olá👋! Meu nome é Saide Assane Saide, mas você pode me chamar, simplesmente, Saide Hassan. Sou entusiasta iniciante do mundo da programação e estou aprendendo e aperfeiçoando as linguagens HTML, CSS e JAVASCRIPT.</h3>
+<h3 align="left">Olá👋! Meu nome é Saide Assane Saide, mas você pode me chamar, simplesmente, Saide Hassan. Sou entusiasta iniciante do mundo da programação e estou aprendendo e aperfeiçoando as linguagens HTML, CSS e JAVASCRIPT.</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/saidehassan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -30,6 +30,6 @@
 
 ###
 
-<img align="center" src="https://profile-counter.glitch.me/saide-hassan/count.svg?"  />
+<img align="left" src="https://profile-counter.glitch.me/saide-hassan/count.svg?"  />
 
 ###
